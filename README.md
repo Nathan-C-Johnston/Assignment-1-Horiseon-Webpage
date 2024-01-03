@@ -4,6 +4,6 @@ This is the first assigment for Coding Bootcamp. The following changes have been
 
 1. Updated webpage tab name
 2. Updated div tags to more specific semantic tags
-3. Updated comments
-4. Updated imagine descriptions
+3. Added comments
+4. Added alt imagine descriptions
 5. Fixed link 
